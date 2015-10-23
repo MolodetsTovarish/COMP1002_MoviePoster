@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-image: url("../Assets/images/rockbackground.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+main{
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Franklin Gothic Heavy", sans-serif;
+    color: sandybrown;
+}
+
+h1{
+    font-size: 300%;
+}
+
+p{
+    font-family: "Lucida Sans Typewriter", sans-serif;
+    font-size: 29;
+    color: lightsalmon
+}
+
+
+section#logopanel{
+    display:inline;
+    text-align: center;
+    letter-spacing: 75px;
+}
+
+aside#releasedate{
+    text-align: center;
+    font-size: 24px;
+}
+
+aside#reviews{
+    text-align: left;
+    border: 2px solid;
+    font-size: 20px;
+}
+
+section#stills{
+    display:inline;
+    font-size: 20px;
+    font-family: "Britannic Bold", sans-serif;
+    color: sandybrown;
+}
+
+footer{
+    text-align: left;   
+}
